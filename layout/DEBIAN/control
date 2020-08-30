@@ -1,0 +1,9 @@
+Package: ch.jesseb0rn.mqttmodule
+Name: MQTTModule
+Depends: mobilesubstrate, com.opa334.ccsupport, ch.jesseb0rn.mqtt
+Version: 1.0.2
+Architecture: iphoneos-arm
+Description: Send a MQTT message from your CC
+Maintainer: jesseb0rn
+Author: jesseb0rn
+Section: Control Center Modules
